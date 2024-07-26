@@ -25,9 +25,9 @@ const Content = () => {
                         <div className="carousel-caption d-flex flex-column justify-content-center align-items-center">
                             <h2>Welcome to Coding Blog</h2>
                             <p>Technology News, Development News and Trends</p>
-                            <div className="d-flex flex-wrap justify-content-center gap-2">
+                            <div className="btn-div d-flex flex-wrap justify-content-center gap-2">
                                 <button className="btn btn-danger">Technology</button>
-                                <button className="btn btn-primary">Web Development</button>
+                                <button id='primary' className="btn btn-primary">Web Development</button>
                                 <button className="btn btn-success">Tech Fun</button>
                             </div>
                         </div>
@@ -37,9 +37,9 @@ const Content = () => {
                         <div className="carousel-caption d-flex flex-column justify-content-center align-items-center">
                             <h2>The Best Coding Blog</h2>
                             <p>Technology News, Development News and Trends</p>
-                            <div className="d-flex flex-wrap justify-content-center gap-2">
+                            <div className="btn-div d-flex flex-wrap justify-content-center gap-2">
                                 <button className="btn btn-danger">Technology</button>
-                                <button className="btn btn-primary">Web Development</button>
+                                <button id='primary' className="btn btn-primary">Web Development</button>
                                 <button className="btn btn-success">Tech Fun</button>
                             </div>
                         </div>
@@ -49,9 +49,9 @@ const Content = () => {
                         <div className="carousel-caption d-flex flex-column justify-content-center align-items-center">
                             <h2>Award Winning Blog</h2>
                             <p>Technology News, Development News and Trends</p>
-                            <div className="d-flex flex-wrap justify-content-center gap-2">
+                            <div className="btn-div d-flex flex-wrap justify-content-center gap-2">
                                 <button className="btn btn-danger">Technology</button>
-                                <button className="btn btn-primary">Web Development</button>
+                                <button  className="btn btn-primary">Web Development</button>
                                 <button className="btn btn-success">Tech Fun</button>
                             </div>
                         </div>
